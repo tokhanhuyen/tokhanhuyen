@@ -1,0 +1,53 @@
+span {
+	margin-left: 10px;
+}
+
+main .cardmini p {
+	font-size: 15px;
+	padding: 0px;
+}
+
+main .nav-link {
+	font-size: 45px;
+}
+
+main .nav-3 .card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	margin-left: 10px;
+	position: relative;
+}
+
+main .position {
+	position: absolute;
+	border: 1px solid #c4001d; 
+	left: 240px;
+	width: 50px;
+    height: 50px;
+    background: #c4001d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+}
+
+main .position p{
+	margin-top: 13px;
+}
+
+main .price {
+	color: #f57c00;
+}
+
+main {
+	margin-top: 130px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel i{
+	background-color: #000000;
+	padding: 10px;
+}
+

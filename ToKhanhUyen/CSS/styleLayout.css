@@ -1,0 +1,77 @@
+header {
+	position: fixed;
+    top: 0;
+	width: 100%;
+	z-index: 1;
+	background-color: #ffffff;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+header #menu li {
+	margin-left: 40px;
+}
+
+.nav-2 a:hover, #menu a:hover {
+	color: orange;
+}
+
+header .nav-link {
+	font-size: 16px;
+}
+
+ul li {
+	padding-right: 5px;
+}
+
+header #contact a {
+	color: white;
+	padding: 0px;
+}
+
+header #contact a:hover {
+	color: black;
+	transition: 0.25s;
+}
+
+header .hotline {
+	margin-left: 40px;
+}
+
+
+
+.input-group{
+	width: 90%;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.show {display: block;}
+
+#myBtn:hover {
+	color: orange;
+	transition: 0.01s;
+}
+
+.icon-shop {
+	margin-left: 30px;
+}
+
+
+footer .address {
+	margin-top: 60px;
+	list-style: square;
+
+}
+
+footer .hotline {
+	list-style-image: url('old-typical-phone.png');
+}
+
+footer .icon {
+	list-style-image: url('home.png');
+}
+
+footer .hotline a {
+	text-decoration: none;
+	color: #008ba3;
+}
